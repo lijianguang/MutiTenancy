@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plugin.MutiTenancy", "Plugin.MutiTenancy\Plugin.MutiTenancy.csproj", "{6C04C0DC-4026-4568-B47D-7BC0EBA0E3A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{5162E754-FA62-4F1E-AA6F-3E3640607986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C04C0DC-4026-4568-B47D-7BC0EBA0E3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C04C0DC-4026-4568-B47D-7BC0EBA0E3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C04C0DC-4026-4568-B47D-7BC0EBA0E3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C04C0DC-4026-4568-B47D-7BC0EBA0E3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5162E754-FA62-4F1E-AA6F-3E3640607986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5162E754-FA62-4F1E-AA6F-3E3640607986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5162E754-FA62-4F1E-AA6F-3E3640607986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5162E754-FA62-4F1E-AA6F-3E3640607986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9FA8EA8-CF99-4AC2-8B69-7E0BD7C80B88}
+	EndGlobalSection
+EndGlobal
